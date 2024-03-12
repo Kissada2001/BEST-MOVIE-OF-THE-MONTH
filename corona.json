@@ -1,0 +1,77 @@
+{
+    "corona":[
+        {
+            "code": "in",
+            "name": "India",
+            "confirmed": 44685132,
+            "death": 530761,
+            "lastdeath": 8
+        },
+        {
+            "code": "jp",
+            "name": "Japan",
+            "confirmed": 33097952,
+            "death": 71737,
+            "lastdeath": 949
+        },
+        {
+            "code": "de",
+            "name": "Germany",
+            "confirmed": 38018111,
+            "death": 167387,
+            "lastdeath": 62
+        },
+        {
+            "code": "us",
+            "name": "United States of America",
+            "confirmed": 102247392,
+            "death": 1111342,
+            "lastdeath": 2197
+        },
+        {
+            "code": "cn",
+            "name": "China",
+            "confirmed": 99109603,
+            "death": 120227,
+            "lastdeath": 362
+        }
+        ,
+        {
+            "code": "fr",
+            "name": "France",
+            "confirmed": 38538948,
+            "death": 161397,
+            "lastdeath": 144
+        },
+        {
+            "code": "br",
+            "name": "Brazil",
+            "confirmed": 37076053,
+            "death": 699276,
+            "lastdeath": 329
+        },
+        {
+            "code": "kr",
+            "name": "Republic of Korea",
+            "confirmed": 30581499,
+            "death": 34049,
+            "lastdeath": 72
+        },
+        {
+            "code": "it",
+            "name": "Italy",
+            "confirmed": 25603510,
+            "death": 188322,
+            "lastdeath": 104
+        },
+        {
+            "code": "gb",
+            "name": "The United Kingdom",
+            "confirmed": 24396534,
+            "death": 207695,
+            "lastdeath": 25
+        }
+        
+        
+    ]
+}

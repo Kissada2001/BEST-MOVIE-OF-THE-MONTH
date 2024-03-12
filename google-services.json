@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "129113918929",
+    "firebase_url": "https://work8-e8321-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "work8-e8321",
+    "storage_bucket": "work8-e8321.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129113918929:android:5d26795204ff9b9b9224f0",
+        "android_client_info": {
+          "package_name": "com.phumtawan.work8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129113918929-fu6ge5mieva6j1kj8k9btn1k2r0pkvp3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.phumtawan.work8",
+            "certificate_hash": "c7c6faba260ce16c6d57d4d94aeeb40dbd06a44e"
+          }
+        },
+        {
+          "client_id": "129113918929-8tojb3v3fvdhk9p5sikor78pn9mnof3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClKspqm4LNhUgj5HTDOrGZX8ZhoEIbiC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129113918929-8tojb3v3fvdhk9p5sikor78pn9mnof3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
